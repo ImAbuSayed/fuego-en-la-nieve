@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-la-nieve/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Fuego en la nieve](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-la-nieve/) |
+| **Get License** | [Obtain a Music License for Fuego en la nieve](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-la-nieve/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2ad7eaf7a538370dadfcb9c162a723778614597fc00791bf9a92842f376d2523` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

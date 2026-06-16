@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego en la nieve
+
+This log tracks the cryptographic history and versioning for the song **Fuego en la nieve** (fuego-en-la-nieve).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:30:52.852815 | `v1` | `2ad7eaf7a538370dadfcb9c162a723778614597fc00791bf9a92842f376d2523` | `50a8976c5a88ddeabc30a923f291e82219767d11f567ccb7fa811ddbc545e17a` | `2026-06-16_fuego-en-la-nieve-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
